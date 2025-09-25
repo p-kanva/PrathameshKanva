@@ -1,5 +1,3 @@
-# PrathameshKanva
-
 # 👋 Hi, I’m Prathamesh Kanva  
 
 💻 Software Development Engineer (SDE I) with hands-on experience in **Java, Spring Boot, REST APIs, Databases, and Microservices**.  
@@ -20,9 +18,6 @@
 Some of my projects on GitHub:  
 
 - 📦 **Inventory Forecasting Service** – Spring Boot backend for stock management & auto purchase orders  
-- 🔐 *(Add your other repo here)*  
-- 🌐 *(Add another repo here)*  
-
 👉 *(I’ll keep adding more as I upload projects)*  
 
 ---
@@ -36,15 +31,15 @@ Some of my projects on GitHub:
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathameshkanva)  
-- 🐙 [GitHub](https://github.com/prathameshkanva)  
-- ✉️ Email: *your email here*  
+- 🐙 [GitHub](https://github.com/p-kanva)  
+- ✉️ Email: p.kanva@gmail.com
 
 ---
 
 ## 🧑‍💻 Coding Profiles  
-- 🟠 [LeetCode](https://leetcode.com/your-username)  
-- 🟢 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-username)  
-- 🟣 [HackerRank](https://www.hackerrank.com/your-username)  
+- 🟠 [LeetCode](https://leetcode.com/u/user4366jI/)  
+- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/user/pkanva/)  
+- 🟣 [HackerRank](https://www.hackerrank.com/profile/p_kanva)  
 
 ---
 
